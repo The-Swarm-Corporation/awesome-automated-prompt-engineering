@@ -13,6 +13,14 @@ We encourage community contributions—if you know of a tool or service that’s
 | **Anthropic Console**                  | [Visit](https://console.anthropic.com/dashboard)                     | Anthropic provides the ability to generate prompts from a simple text description in their console. Note: You must have credits and or credits in your balance                                               |
 | **Prompt Tuner by Cohere**             | [Visit](https://dashboard.cohere.com/prompt-tuner)                   | A tool for refining and optimizing prompts for Cohere’s language models, providing real-time experimentation and prompt enhancement.                           |
 
+
+## Papers
+
+**Coming Soon: Submit the best automated prompt engineering papers here please!**
+
+
+
+
 ## Contribute
 
 This repository is community-driven, and we welcome new additions! If you know of other tools or services related to automated prompt engineering, please submit a PR with the following information:
