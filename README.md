@@ -4,7 +4,7 @@ This repository serves as a central hub for discovering tools and services focus
 
 We encourage community contributions—if you know of a tool or service that’s not listed, please feel free to submit a Pull Request (PR)!
 
-## Table of Tools
+## Tools
 
 | **Tool**                               | **Link**                                                            | **Description**                                                                                                                                              |
 |----------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
